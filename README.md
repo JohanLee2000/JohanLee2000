@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 🔭 I’m currently working on Practice10k, a mobile application for professional musicians to plan practice sessions and journal their progress on the road to 10,000 hours. It features a built-in metronome, a practice portal, distribution charts and more! <br>
 - 🌱 I’m currently learning TypeScript, React Native<br>
-- 😄 I’m looking to collaborate on developing mobile/web applications and 2D platformer Godot games<br>
+- 😄 I’m looking to collaborate on developing mobile/web applications<br>
 - 📫 Website: https://leejohan.com/<br>
 - ⚡ Fun fact: I used to be a tank operator(Driver) for the Leopard 2SG!
 
